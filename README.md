@@ -1,1 +1,8 @@
-# website.test
+# Welcome!
+
+Table of contents
+1) Intro
+2) Lab culture an philosophy
+3) Expectations
+4) Important information
+5) Resources and tools
